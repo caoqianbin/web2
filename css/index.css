@@ -1,0 +1,254 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a,h1,h2,p{
+	text-decoration: none;
+}
+/*header开始*/
+.header{
+	height: 173px;
+	background-color: #eeeeef;
+}
+.logo{
+	padding-top: 30px;
+	text-align: center;
+	height: 95px;
+}
+.nav{
+	width: 670px;
+	height: 45px;
+	background-color: #fff;
+	margin: 0 auto;
+	border-radius: 22.5px;
+}
+.nav li{
+	float: left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+	background: url(../images/line.png) no-repeat right center;
+}
+.nav li a{
+	display: block;
+	height: 42px;
+	border-bottom: 3px solid #1e50ae;
+	font-size: 14px;
+}
+.nav li{
+	font-size: 14px;
+}
+.nav li:last-child{
+	background: none;
+}
+/*banner开始*/
+.banner{
+	height: 405px;
+	background: url(../images/ren2.png) no-repeat center center;
+}
+/*服务开始*/
+.serve{
+	width: 1080px;
+	height: 810px;
+	margin: 0 auto;	
+	text-align: center;
+}
+.m{
+	padding-top: 62px;
+}
+.n{
+	font-size: 34px;
+	color:#333333;
+}
+.q{
+	margin-top:12px;
+	font-size: 23px;
+	color:#333333;
+}
+.b{
+	width: 150px;
+	height: 360px;
+	float: left;
+	padding-right: 158px;
+	padding-top: 60px;
+}
+.b1{
+	width: 150px;
+	height: 360px;
+	float: left;
+	padding-top: 60px;
+}
+.d{
+	padding-top: 24px;
+	font-size: 16px;
+	padding-bottom: 17px;
+}
+.c{
+	float: left;
+	width: 100px;
+	font-size: 14px;
+	margin-left: 37px;
+	padding-left: 0px;
+	color: #aaaaaa;	
+	text-align: left;
+}
+.e{
+	width: 150px;
+	height: 245px;
+	float: left;
+	padding-right: 158px;
+}
+.e1{
+	width: 150px;
+	height: 245px;
+	float: left;
+}
+.f{
+	margin-top: 60px;
+	text-align: center;
+}
+.g{
+	width: 1200px;
+	height: 500px;
+}
+.i{
+	width: 1080px;
+	height: 272px;
+	margin-left: 247px;
+	margin-top: 50px;
+}
+.j{
+	float: left;
+}
+.k{
+	width: 507px;
+	height: 245px;
+	margin-left: 50px;
+	margin-top:50px; 
+	float:right;
+}
+.l{
+	font-size: 22px;
+	margin-bottom: 15px;
+}
+.o{
+	font-size: 18px;
+	margin-bottom: 27px;
+	color: #8c8c8c;
+}
+.r{
+	font-size:14px;
+	color: #cbcbcb;
+}
+.s{
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.t{
+	margin-top: 20px;
+	border-bottom: 1px dashed #cbcbcb;
+	color: #cbcbcb;
+}
+.u{
+	margin-left: 200px;
+	float: left;
+}
+.v{
+	float: right;
+}
+.x{
+	width: 1560px;
+	height: 108px;
+	background-color: #f5f5f5;
+	margin-top: 490px;
+}
+.x li{
+	float: left;
+	height: 45px;
+	padding-top: 20px;
+	padding-left: 100px;
+	line-height: 45px;
+	background: url(../images/line2.png) no-repeat right center;
+}
+
+.z{
+	float: left;
+	margin-top: 10px;
+}
+.y{
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+}
+.zz{
+	line-height: 0px;
+	font-size: 18px;
+}
+.yy{
+	margin-top: 0px;
+	font-size: 13px;
+}
+.w{
+	width: 1560px;
+	height: 388px;
+	background-color: #323232;
+	color: white;
+}
+.ww{
+	margin-left: 180px;
+	width: 72px;
+	height: 135px;
+	float: left;
+}
+.w1{
+	padding-top: 100px;
+	font-size: 18px;
+}
+.w2{
+	padding-top: 30px;
+	font-size: 14px;
+}
+.mm{
+	float: left;
+	padding-top: 100px;
+	padding-left: 30px;
+}
+.bb{
+	padding-left:30px;
+	padding-top: 100px;
+}
+.ff{
+	padding-top: 30px;
+}
+.cc{
+	float: left;
+}
+.dd{
+	float: left;
+}
+.hh{
+	margin-top: 120px;
+	width: 1560px;
+	height: 130px;
+	border-top: 1px white solid;
+}
+.ll{
+	height: 10px;
+	margin-left: 100px;
+	margin-top: 10px;
+}
+.ll li{
+	float: left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+	color: white;
+	background: url(../images/line.png) no-repeat right center;
+}
+.pp{
+	text-align: center;
+	padding-top: 40px;
+}
